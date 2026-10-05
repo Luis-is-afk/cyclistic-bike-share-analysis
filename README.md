@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share Case Study: How Do Members and Casual Riders Use Bikes Differently?
  
-**Author:** [Your Name] · **Tools:** R (tidyverse, lubridate, ggplot2) · **Data:** 5.95 million rides, September 2025 to August 2026
+**Tools:** R (tidyverse, lubridate, ggplot2) · **Data:** 5.95 million rides, September 2025 to August 2026
  
 A capstone case study (Google Data Analytics Certificate, Case Study 1) following the **Ask, Prepare, Process, Analyze, Share, Act** framework. I play a junior analyst on the marketing team of Cyclistic, a fictional Chicago bike-share company, using real public trip data from Divvy.
  
