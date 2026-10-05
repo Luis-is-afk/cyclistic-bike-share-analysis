@@ -1,0 +1,10 @@
+"metric","value"
+"Raw rows",6115982
+"Clean rows",5951516
+"Rows removed",164466
+"Duplicate ride IDs",35
+"Unparseable start/end times",0
+"Missing start station names",1285406
+"Missing end station names",1349937
+"Minimum ride length (min)",1
+"Maximum ride length (min)",1439.9759499987
