@@ -122,8 +122,7 @@ These are hypotheses to test, such as a pilot at a few stations, not proven inte
 
 
  
-## Attribution
- 
-Trip data © Motivate International Inc., used under the Divvy data license. "Cyclistic" is a fictional company created for the Google Data Analytics Certificate case study.
+> ## Attribution
+ > Trip data © Motivate International Inc., used under the Divvy data license. "Cyclistic" is a fictional company created for the Google Data Analytics Certificate case study.
 
 
