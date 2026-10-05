@@ -25,7 +25,7 @@ Annual members ride like commuters: steady through the week and the year, with r
 | Period | September 2025 to August 2026 (12 monthly CSV files) |
 | Size | 6,115,982 raw rows, 13 columns |
 | Key fields | `ride_id`, `rideable_type`, `started_at`, `ended_at`, start/end station name and ID, start/end latitude and longitude, `member_casual` |
-| Storage | Raw files kept unmodified in a local `data/` folder, not committed to GitHub because of size and licensing. See [`data/README.md`](data/README.md) for how to download them. |
+| Storage | Raw files kept unmodified in a local `data/` folder, not committed to GitHub because of size and licensing. See [`data/README.md`](data/README.MD) for how to download them. |
 | License | Used under the Divvy data license agreement. Check the current terms at the Divvy website before reuse. |
 | Privacy | Trip records contain no personally identifiable information. This also means pass purchases can't be linked to individuals, so I can't tell whether casual riders live in Chicago or buy multiple passes. |
  
