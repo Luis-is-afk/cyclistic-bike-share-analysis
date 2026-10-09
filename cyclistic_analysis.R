@@ -4,10 +4,9 @@ missing_packages <- setdiff(required_packages, rownames(installed.packages()))
 if (length(missing_packages) > 0) install.packages(missing_packages)
 invisible(lapply(required_packages, library, character.only = TRUE))
 
-# Point this at a data FILE (.csv/.xlsx/.xls) or a FOLDER of monthly CSVs.
-# NOTE: do not point it at this .R script; that was the original bug.
-DATA_PATH  <- "C:/Users/luisa/OneDrive/Desktop/bike-share-company/data"
-# 12-month analysis window (change if your data covers different months)
+
+DATA_PATH  <- "C:/Users/null/OneDrive/Desktop/bike-share-company/data"
+# 12-month analysis window 
 START_DATE <- as.Date("2025-09-01")
 END_DATE   <- as.Date("2026-08-31")
 OUTPUT_DIR <- "cyclistic_outputs"
