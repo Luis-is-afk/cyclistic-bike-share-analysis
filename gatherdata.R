@@ -1,4 +1,4 @@
-data_dir <- "C:/Users/luisa/OneDrive/Desktop/bike-share-company/data"
+data_dir <- "C:/Users/null/OneDrive/Desktop/bike-share-company/data"
 dir.create(data_dir, showWarnings = FALSE)
 
 months <- format(seq(as.Date("2025-09-01"), as.Date("2026-08-01"), by = "month"), "%Y%m")
